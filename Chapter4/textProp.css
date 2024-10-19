@@ -1,0 +1,15 @@
+p{
+    background-color: rebeccapurple;
+    width: 334px;
+    height: 555px;
+    color: white;
+
+    /* text-decoration: underline; */
+    /* text-transform: capitalize; */
+
+    /* line-height: 30.2px; */
+    /* font-size: 23px; */
+
+    /* font-family: ubuntu, 'Courier New', Courier, monospace; */
+    font-family: 'Balsamiq Sans', cursive;
+}

@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Q1 */
+
+li{
+    list-style: none;
+    /* display: inline; */
+    padding: 0 43px;
+}
+
+/* Q3 */
+ul{
+    padding: 34px;
+    display: flex;
+}
+
+header{
+    background-color: black;
+    color: white;
+}
+
+.left{
+    /* float: left; */
+    height: 80vh;
+    width: 40vw;
+    background-color: aqua;
+}
+
+.right{
+    /* float: right; */
+    height: 80vh;
+    width: 40vw;
+    background-color: blueviolet;
+}
+
+/* Q2 */
+.container{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+li {
+  display: inline-block;
+  font-size: 1vw;
+  padding: 0 30px;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+}
+
+.container{
+    min-height: 2333px;
+    background-color: red;
+    position: relative;
+    z-index: 3;
+}

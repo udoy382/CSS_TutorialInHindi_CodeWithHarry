@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: red;
+}
+
+div{
+    background-color: antiquewhite;
+}
+
+#red, h3{
+    color: white;
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+    color: beige;
+    border: black;
+}
+
+
+/* This is a CSS single line comments  */
+
+/*
+This is 
+multi line
+comments
+*/

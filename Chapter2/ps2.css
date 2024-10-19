@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Q1 */
+ul{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 800px;
+}
+
+/* Q2 */
+.main{
+    background-color: royalblue;
+}
+
+/* Q3 */
+.bg{
+    width: 344px;
+    height: 3344px;
+    background-image: url(./img/img1.png);
+    background-repeat: no-repeat;
+    background-color: aqua;
+    background-size: 344px 344px;
+    background-attachment: fixed;
+}

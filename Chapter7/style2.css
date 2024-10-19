@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    background-color: blueviolet;
+    height: 34vh;
+}
+
+/* CSS Media Queries */
+
+@media screen and (max-width: 800px) {
+    body{
+        background-color: brown;
+    }
+    .container{
+        background-color: yellow;
+    }
+}

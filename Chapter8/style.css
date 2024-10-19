@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    background-color: red;
+    color: white;
+    height: 455px;
+}
+
+.box{
+    border: 2px solid black;
+
+    /* transform: translate(35px, 56px) rotate(0.5turn); */
+    /* transform: translate(35px, 56px) rotate(45deg); */
+    /* transform-origin: 0; */
+
+    /* transform: scale(2, 7); */
+
+    /* transform: skew(4deg, 6deg); */
+
+    /* transform: rotate(45deg); */
+}
+
+img:hover{
+    width: 56px;
+}
+
+img{
+    width: 146px;
+    transition-property: width;
+    transition-duration: 1s;
+    transition-timing-function: ease-in;
+    transition-delay: 3s;
+}

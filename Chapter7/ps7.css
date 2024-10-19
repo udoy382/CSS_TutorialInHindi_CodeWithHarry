@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Q1 */
+ul{
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+}
+
+ul li{
+    list-style: none;
+    margin:0 23px;
+    padding: 20px 0;
+}
+
+header{
+    background-color: black;
+    color: white;
+}
+
+/* Q2 */
+
+.box1{
+    background-color: blue;
+    color: white;
+    height: 30vh;
+    width: 30vw;
+}
+
+.box2{
+    background-color: greenyellow;
+    color: white;
+    height: 30vh;
+    width: 30vw;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+/* Q3 */
+
+body{
+    background-color: green;
+}
+
+@media screen and (max-width: 800px) {
+    body{
+        background-color: brown;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    body{
+        background-color: yellow;
+    }
+}

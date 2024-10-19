@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Q1, Q2*/
+
+header{
+    height: 80px;
+    background: black;
+    color: white;
+    border: 2px solid white;
+}
+
+.content{
+    background-color: red;
+    height: 90vh;
+    margin: 34px;
+}
+
+footer{
+    background-color: antiquewhite;
+    margin: 23px;
+}
+
+
+.center{
+    text-align: center;
+}

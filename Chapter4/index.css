@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.box1{
+    background-color: rebeccapurple;
+    height: 300px;
+    width: 300px;
+    /* display: inline; */
+    display: inline-block;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.box2{
+    background-color: tomato;
+    height: 300px;
+    width: 300px;
+    /* display: inline; */
+    display: inline-block;
+    /* display: none; */
+
+    /* text-align: center; */
+    text-align: right;
+}
